@@ -16,9 +16,12 @@
 			<h2>FooBar University</h2>
 		</div>
 	</div>
-	
+	<br>
 	<div id="container">
 		<div id="conent">
+			<input type="button" value="Add Student" 
+				onclick="window.location.href='add-student-form.jsp'; return false;"
+				clas="add-student-button" />
 		
 			<table>
 				<tr>
